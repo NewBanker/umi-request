@@ -1,4 +1,3 @@
-import 'isomorphic-fetch';
 import { timeout2Throw, cancel2Throw, getEnv } from '../utils';
 
 // 是否已经警告过
